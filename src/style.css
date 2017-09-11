@@ -1,6 +1,62 @@
+/*-----------------------------------------------------------
+PCB Automation
+Style Sheet
+-----------------------------------------------------------*/
+
+/*-----------------------------------------------------------
+Home Page
+-----------------------------------------------------------*/
+
+#home-hero {
+  background-image: url('../img/Circuit_banner.jpeg') !important;
+  background-size: cover !important;
+  background-position: center center;
+  margin: 0;
+  border-radius: 0;
+  border: none;
+}
+
+#home-hero .container {
+  margin-top: 5em;
+  background-color:rgba(0, 0, 0, 0.5);
+}
+
+.hidden.menu, .hidden {
+  display: none;
+}
+
+.masthead.segment {
+  min-height: 450px;
+  padding: 1em 0em;
+}
+
+.masthead h1.ui.header {
+  font-size: 3em;
+  font-weight: normal;
+}
+
+.footer.menu {
+  overflow: hidden;
+  padding: 1em 0em;
+}
+
+/*-----------------------------------------------------------
+Menu Items
+-----------------------------------------------------------*/
+
 ._header_clear {
   display: block;
-  height: 75px;
+  height: 56px;
   margin: 0;
   padding: 0;
+}
+
+/*-----------------------------------------------------------
+Brand Specific
+-----------------------------------------------------------*/
+
+span.logo-effect{
+  font-style: italic;
+  color: #CF0A2C;
+  font-family: Volkhov,serif;
 }
