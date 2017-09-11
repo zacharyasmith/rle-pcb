@@ -29,9 +29,6 @@
   <h1 class="ui dividing header">About Our Project</h1>
   <p>RLE Technologies has commissioned the CSU electrical engineering department to help streamline their testing process and make it more efficient. The company has their product's PC boards fabricated offsite and delivered to be assembled. Before commencing this engineering project, the test procedure they utilized for ensuring proper quality assurance took thirty minutes for only two PC boards. This was no longer acceptable.</p>
   <p>Our team was tasked with developing a new testing procedure to ensure proper functionality for each board. The team, consisting of two mechanical engineers, two electrical engineers, and a computer engineer, will have an apparatus built for testing at least two of their flagship product's PC boards.</p>
-  <p></p>
-  <h2 class="ui header">Other Stuff</h2>
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
   <p>&nbsp;</p>
 </div>
 
