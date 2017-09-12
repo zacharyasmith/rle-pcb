@@ -17,7 +17,7 @@ Home Page
 }
 
 #home-hero .container {
-  margin-top: 5em;
+  margin-top: 9em;
   background-color:rgba(0, 0, 0, 0.5);
 }
 
@@ -26,13 +26,17 @@ Home Page
 }
 
 .masthead.segment {
-  min-height: 450px;
+  min-height: 550px;
   padding: 1em 0em;
 }
 
 .masthead h1.ui.header {
   font-size: 3em;
   font-weight: normal;
+}
+
+.ui.vertical.stripe {
+    padding: 3em 0em;
 }
 
 .footer.menu {
@@ -49,6 +53,16 @@ Menu Items
   height: 56px;
   margin: 0;
   padding: 0;
+}
+
+/*-----------------------------------------------------------
+Smooth Scrolling
+-----------------------------------------------------------*/
+
+a.anchor.move {
+  position: relative;
+  top: 5px;
+  display:block;
 }
 
 /*-----------------------------------------------------------

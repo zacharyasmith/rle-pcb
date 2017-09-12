@@ -2,34 +2,32 @@
 
 <div class="ui masthead center aligned segment" id="home-hero">
   <div class="ui raised very padded inverted text container segment">
-    <h1 class="ui inverted header">
-      Welcome!
+    <h1 class="ui inverted dividing header">
+      Colorado State University
     </h1>
-
-    <div class="ui two column middle aligned very relaxed stackable grid">
-      <div class="column">
-        <a class="ui big red button" href="timeline.php">
-          View our Timeline
-          <i class="ui calendar icon"></i>
-        </a>
+    <h2 class="ui inverted header">
+      PCB Test Automation
+      <div class="ui sub header">
+        Senior Design Project
       </div>
-      <div class="center aligned column">
-        <a class="ui big blue button" href="team.php">
-          Meet the Team
-          <i class="ui users icon"></i>
-        </a>
-      </div>
-    </div>
-
+    </h2>
   </div>
 </div>
 
 <div class="ui container">
   <p>&nbsp;</p>
   <h1 class="ui dividing header">About Our Project</h1>
-  <p>RLE Technologies has commissioned the CSU electrical engineering department to help streamline their testing process and make it more efficient. The company has their product's PC boards fabricated offsite and delivered to be assembled. Before commencing this engineering project, the test procedure they utilized for ensuring proper quality assurance took thirty minutes for only two PC boards. This was no longer acceptable.</p>
+  <img src="img/LD5200_medium_cropped.jpg" alt="The RLE LD5200" class="ui medium right floated image">
+  <p>RLE Technologies has commissioned the CSU Electrical &amp; Computer Engineering Department to help streamline their testing process and make it more efficient. The company has their product's PC boards fabricated offsite and delivered to be assembled. Before commencing this engineering project, the test procedure they utilized for ensuring proper quality assurance took thirty minutes for only two PC boards. This was no longer acceptable.</p>
   <p>Our team was tasked with developing a new testing procedure to ensure proper functionality for each board. The team, consisting of two mechanical engineers, two electrical engineers, and a computer engineer, will have an apparatus built for testing at least two of their flagship product's PC boards.</p>
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
   <p>&nbsp;</p>
 </div>
+
+<?php require_once 'sections/team.php'; ?>
+<?php require_once 'sections/timeline.php'; ?>
+<?php require_once 'sections/pictures.php'; ?>
+<?php require_once 'sections/documents.php'; ?>
+<?php require_once 'sections/acknowledgements.php'; ?>
 
 <?php require_once 'sections/footer.php'; ?>
