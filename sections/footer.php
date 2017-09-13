@@ -1,4 +1,4 @@
-<div class="ui footer menu">
+<div class="ui footer">
   <div class="ui middle aligned stackable relaxed grid container">
     <div class="three wide column">
       <a href="http://www.engr.colostate.edu/ece/index.php" target="_blank">

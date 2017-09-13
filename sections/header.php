@@ -10,6 +10,7 @@
   <link rel="stylesheet" href="src/semantic/dist/semantic.min.css">
   <link rel="stylesheet" href="src/style.css">
   <script src="https://code.jquery.com/jquery-3.2.1.min.js" charset="utf-8"></script>
+  <script src="src/semantic/dist/semantic.min.js" charset="utf-8"></script>
   <script src="src/head.js" charset="utf-8"></script>
 </head>
 <body>
