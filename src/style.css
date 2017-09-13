@@ -39,7 +39,7 @@ Home Page
     padding: 3em 0em;
 }
 
-.footer.menu {
+.footer {
   overflow: hidden;
   padding: 1em 0em;
 }
@@ -61,7 +61,7 @@ Smooth Scrolling
 
 a.anchor.move {
   position: relative;
-  top: 5px;
+  top: -64px;
   display:block;
 }
 
