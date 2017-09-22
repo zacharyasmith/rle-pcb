@@ -5,7 +5,7 @@
       Documents
     </h1>
     <h3 class="ui inverted header">
-      Check back later for documents.
+      To obtain a copy of our team charter, send an email to <a href="mailto:smithza@rams.colostate.edu">smithza@rams.colostate.edu</a>.
     </h3>
   </div>
 </div>
