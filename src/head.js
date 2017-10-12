@@ -25,4 +25,15 @@ $(document).ready(function() {
     }
   })
 
+  // image clicker
+  $('.ui.segment._img_popup').click(function() {
+    var src = $(this).children('img').attr('src');
+    var alt = $(this).children('img').attr('alt');
+    // fill in modal
+    $("#_img_popup > div.header").html(alt);
+    $("#_img_popup > div.image > img").attr('src', src);
+    // show it
+    $('#_img_popup').modal('show');
+  });
+
 });

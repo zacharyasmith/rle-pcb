@@ -74,3 +74,11 @@ span.logo-effect{
   color: #CF0A2C;
   font-family: Volkhov,serif;
 }
+
+/*-----------------------------------------------------------
+Image popup
+-----------------------------------------------------------*/
+
+.ui.segment._img_popup {
+  cursor: pointer;
+}

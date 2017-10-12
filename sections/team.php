@@ -65,6 +65,9 @@
         </div>
       </div>
       <div class="card">
+        <div class="image">
+          <img src="img/team/indy_hooser.jpg">
+        </div>
         <div class="content">
           <div class="header">Indiana Hooser</div>
           <div class="meta">
