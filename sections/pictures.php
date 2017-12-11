@@ -6,7 +6,13 @@
     </h1>
     <?php
       $imgs = array(
-        array('img/gallery/RLE_Original_Testing_Method.jpg','RLE Original Testing Method')
+        array('img/gallery/RLE_Original_Testing_Method.jpg','RLE original testing method'),
+        array('img/gallery/SeaLion_Design1.JPG','Initial design of test fixture.'),
+        array('img/gallery/SeaLion_Design2.JPG','Fixture holding 3 LD5200 PCBs.'),
+        array('img/gallery/LD2100_CAD_render.jpg','3D model of the LD2100 PCB.'),
+        array('img/gallery/Backplane_Demo.JPG','3D print of section of backplane.'),
+        array('img/gallery/Backplane_CAD.PNG','3D model of backplane.'),
+        array('img/gallery/SeaLion_Design3.PNG','SeaLion fixture design by first semester.')
       );
     ?>
     <?php foreach ($imgs as $img): ?>

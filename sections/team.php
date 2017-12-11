@@ -17,7 +17,7 @@
           </div>
         </div>
         <div class="extra content">
-          <a href=“https://www.linkedin.com/in/jessicaboydelectricalengineer/“ target=“_blank”>
+          <a href="https://www.linkedin.com/in/jessicaboydelectricalengineer/" target="_blank">
             <i class="linkedin square icon"></i>
             Profile
           </a>
@@ -34,11 +34,11 @@
           </div>
           <div class="description">
             <p>I’ve been around the block a few more times than most undergraduates as I begin my seventh and final year at CSU! Over those seven years, I have had internships / co-ops with 3 different companies (1.5 additional years), changed my major twice (1 additional year) and held innumerable part time jobs.</p>
-            <p>In addition to my professional experience, I love to spend my spare time tinkering and creating. I have built anything from Arduino-based bicycle speedometers and inverse pendulum “Segway” robots to my most recent creation of a desktop CNC vertical mill.</p>
+            <p>In addition to my professional experience, I love to spend my spare time tinkering and creating. I have built anything from Arduino-based bicycle speedometers and inverse pendulum "Segway" robots to my most recent creation of a desktop CNC vertical mill.</p>
           </div>
         </div>
         <div class="extra content">
-          <a href=“https://www.linkedin.com/in/jeremy-deutch-2286738a/“ target=“_blank”>
+          <a href="https://www.linkedin.com/in/jeremy-deutch-2286738a/" target="_blank">
             <i class="linkedin square icon"></i>
             Profile
           </a>
