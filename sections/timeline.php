@@ -8,11 +8,10 @@ $timeline = array(
   array(true,"October checkpoint with client.","Oct 31<sup>st</sup>, 2017"),
   array(true,"December checkpoint with client.","Dec 4<sup>th</sup>, 2017"),
   array(true,"Present semester one progress report.","Dec 6<sup>th</sup>, 2017"),
-  array(false,"Integrate CE, ME, EE designs.","TBD"),
-  array(false,"Design verification tests for audible alarm, LEDs, and relays.","TBD"),
-  array(false,"Develop user interface (or GUI) to interact with tests and results.","TBD"),
-  array(false,"Assemble SeaLion fixture.","TBD"),
-  array(false,"E-Days presentation.","April, 2018")
+  array(true,"February checkpoint with client.","Feb 2<sup>nd</sup>, 2018"),
+  array(true,"March checkpoint with client.","Mar 9<sup>th</sup>, 2018"),
+  array(true,"E-Days presentation. (Automated PCB places 3rd.)","Apr 12<sup>th</sup>, 2018"),
+  array(false,"Delivery of PCB tester.","End of semester")
 );
 ?>
 <div class="ui vertical inverted stripe segment">

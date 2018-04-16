@@ -31,7 +31,7 @@ $(document).ready(function() {
     var alt = $(this).children('img').attr('alt');
     // fill in modal
     $("#_img_popup > div.header").html(alt);
-    $("#_img_popup > div.image > img").attr('src', src);
+    $("#_img_popup > div.content > img").attr('src', src);
     // show it
     $('#_img_popup').modal('show');
   });
