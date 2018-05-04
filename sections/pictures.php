@@ -15,7 +15,10 @@
         array('img/gallery/Frame_1.JPG', 'Development of frame.'),
         array('img/gallery/PhotoresistorMountConcept.PNG', 'Photoresistor mount case concept.'),
         array('img/gallery/ECE_Team_Pic.jpg', 'ECE Team.'),
-        array('img/gallery/EDays.jpg', 'Team at EDays.')
+        array('img/gallery/EDays.jpg', 'Team at EDays.'),
+        array('img/gallery/GUI.png', 'GUI'),
+        array('img/gallery/final_assembly.jpg', 'Final Assembly.'),
+        array('img/gallery/final_cad.png', 'Final CAD Drawing.')
       );
     ?>
     <?php foreach ($imgs as $img): ?>

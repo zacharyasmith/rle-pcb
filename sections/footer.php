@@ -25,7 +25,7 @@
           <a href="http://www.colostate.edu" class="ui link">Colorado State University Home</a>
         </li>
       </ul>
-      <p><b>Updated</b> April 15th, 2018.</p>
+      <p><b>Updated</b> May 4th, 2018.</p>
     </div>
   </div>
 </div>
